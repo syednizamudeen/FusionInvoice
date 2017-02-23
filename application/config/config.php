@@ -24,7 +24,7 @@ $config['base_url']	= '';
 | The Name/Title of your site. This will be used in the browser title bar.
 |
 */
-$config['site_title'] = 'FusionInvoice';
+$config['site_title'] = 'KMarketing';
 
 /*
 |--------------------------------------------------------------------------
